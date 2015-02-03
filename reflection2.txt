@@ -1,0 +1,12 @@
+How did viewing a diff between two versions of a file help you see the bug that was introduced?
+
+It was pettry useful because I could watch every chance I made, and also I didn't have to look at all
+of the code that I had written.
+
+How could having easy access to the entire history of a file make you a more efficient programmer in the long term?
+Because you could find your mistakes easier and get to know wich are your msot commun mistakes coding
+
+
+What do you think are the pros and cons of manually choosing when to create a commit, like you do in Git, vs having versions automatically saved, like Google docs does?
+a cons for creating a commit just as Git does is probable that we could forget to do it. When in docs it is automatically
+I dont know about the offline option, if we lose conection can't we commit?
