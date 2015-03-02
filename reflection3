@@ -8,3 +8,6 @@ Describe the differences between forks, clones, and branches. When would you use
 FORK -> you copy an existing repository of gitHub into your itHub account
 Clone -> you copy an existing repository into your computer
 Brach -> You crate a new version of a project
+
+What is the benefit of having a copy of the last known state of the remote stored locally?
+Because this way you can compare it to your local and solve conflicts of merging
